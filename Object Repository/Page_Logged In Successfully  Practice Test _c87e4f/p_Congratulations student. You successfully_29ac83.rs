@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Congratulations student. You successfully_29ac83</name>
+   <tag></tag>
+   <elementGuidId>8f82389e-4709-4104-a4e9-3b8bf0267ef9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.has-text-align-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='loop-container']/div/article/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>p >> internal:has-text=&quot;Congratulations student. You successfully logged in!&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b27285f2-c351-405e-bcad-22e4bfd95dcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>has-text-align-center</value>
+      <webElementGuid>a73e62cc-057a-4560-ae7a-cc1e848ac3c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Congratulations student. You successfully logged in!</value>
+      <webElementGuid>a26a3ec7-1ddf-4e1d-b264-041cb2d3bba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loop-container&quot;)/div[@class=&quot;post-257 page type-page status-publish hentry entry&quot;]/article[1]/div[@class=&quot;post-content&quot;]/p[@class=&quot;has-text-align-center&quot;]</value>
+      <webElementGuid>ab311d27-1536-45cd-ba72-e23f4acc0fbd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='loop-container']/div/article/div[2]/p</value>
+      <webElementGuid>ee14d5aa-0937-4d0b-87e1-8bf27b819d72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logged In Successfully'])[1]/following::p[1]</value>
+      <webElementGuid>67081a11-1402-40f7-89e2-b11d40a4754e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='open menu'])[1]/following::p[1]</value>
+      <webElementGuid>d6e0edd7-817d-4c43-b240-62abbde6552e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log out'])[1]/preceding::p[1]</value>
+      <webElementGuid>6cb23669-287b-42fe-a511-b109437cb5a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>c50eb4bb-dff8-40f1-8b71-ed15070a83d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Congratulations student. You successfully logged in!' or . = 'Congratulations student. You successfully logged in!')]</value>
+      <webElementGuid>53643d60-89ad-4ece-9509-1da6512e48b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

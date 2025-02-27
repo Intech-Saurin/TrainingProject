@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test written in script</description>
+   <name>Test3_ScriptMode</name>
+   <tag>@sanity @smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ec8803b3-9dc7-4e5c-af75-f45796cafa3c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>FailureHandlingDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6ab3e1d5-b402-4c5e-9d71-fb5cc535f94c</testCaseGuid>
+</TestCaseEntity>

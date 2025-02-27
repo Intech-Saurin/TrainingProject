@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is test with manual mode</description>
+   <name>Test2_ManualMode</name>
+   <tag>@sanity @smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>80a5d302-372d-47e0-95af-252077560141</testCaseGuid>
+</TestCaseEntity>

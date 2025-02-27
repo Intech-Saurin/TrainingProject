@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_Your nearest branch closes in 30m 5s</name>
+   <tag></tag>
+   <elementGuidId>6896e7a3-217c-4131-b890-057554a291e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#time</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h6[@id='time']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Your nearest branch closes in: 30m 5s&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>b06e9184-be0f-4e13-92a0-051cfba20f7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>time</value>
+      <webElementGuid>39a25b40-761c-4e9a-b99b-847f60051bb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your nearest branch closes in: 30m 5s</value>
+      <webElementGuid>1dc51ada-a5cf-408a-a8b0-5dfc20027406</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;time&quot;)</value>
+      <webElementGuid>165f818b-e30b-47a2-9587-5a9ef0b1a5ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h6[@id='time']</value>
+      <webElementGuid>9b33db9a-2c44-4d25-8518-0dddf0ddd679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Payment'])[1]/following::h6[1]</value>
+      <webElementGuid>9ba7944f-bbac-497e-a2be-b3d64c928c2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Account'])[1]/following::h6[1]</value>
+      <webElementGuid>db3f13b1-38a6-424d-914d-e225b0b35783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financial Overview'])[1]/preceding::h6[1]</value>
+      <webElementGuid>cf6d6c55-1ded-4bf2-aff6-7a88ae3bc30f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Balance'])[1]/preceding::h6[2]</value>
+      <webElementGuid>ffe007fd-0d66-4156-bc91-f4c6cd19ba55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your nearest branch closes in: 30m 5s']/parent::*</value>
+      <webElementGuid>d086d499-f7ce-4216-8b21-f6bd9d899753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/h6</value>
+      <webElementGuid>e8908921-7253-4c40-b047-a7aee0040d72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[@id = 'time' and (text() = 'Your nearest branch closes in: 30m 5s' or . = 'Your nearest branch closes in: 30m 5s')]</value>
+      <webElementGuid>50d9d97a-a1e4-487e-b6d9-07354ea59085</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
